@@ -1,6 +1,7 @@
 {
   "name": "sample_npm",
   "version": "0.1.0",
-  "private": false,
-  "author": "Tatiana Grigorkina"
+  "author": "Tatiana Grigorkina",
+  "private": false
+
 }
